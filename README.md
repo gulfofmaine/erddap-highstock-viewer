@@ -14,7 +14,10 @@ It demonstrates how to get info, metadata and observations using the ERDDAP REST
   - Modern browser which supports ES6.
 
 ##  Usage
-  - Just load erd_parse_hs.html into your browser via File Open. No Web server required.
-  - http://www.neracoos.org/lgnc/ERDFetch/erd_parse_hs.html  - Web server example.
+  - Put both `erd_parse_hs.html` and `erd_parse_hs.js` in the same directory.
+  - Open erd_parse_hs.html with your browser via File Open. No Web server required.
+
+##  Links
+  - http://www.neracoos.org/lgnc/ERDFetch/erd_parse_hs.html
   - [HighCharts]( https://www.highcharts.com )
   - [Coastwatch West Coast ERDDAP]( https://coastwatch.pfeg.noaa.gov/erddap/index.html)
